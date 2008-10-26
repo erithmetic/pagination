@@ -107,7 +107,7 @@ function paginate() {
 		$pagination['pageset'] = array();
 		
 		if ($start_page >= 2 && $pages_to_show < $max_page) {
-			$pagination['first_page'] = .clean_url(get_pagenum_link());
+			$pagination['first_page'] = clean_url(get_pagenum_link());
 		}
 		for($i = $start_page; $i  <= $end_page; $i++) {
 			if($i == $current_page) {
