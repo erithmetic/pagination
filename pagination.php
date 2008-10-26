@@ -67,7 +67,7 @@ function pagination_menu() {
 
 function paginate() {
 	global $wpdb, $wp_query, $pagination;		// mmm global variables...
-	$pagination = arary();
+	$pagination = array();
 	if (!is_single()) {
 		$request = $wp_query->request;
 		$posts_per_page = intval(get_query_var('posts_per_page'));
