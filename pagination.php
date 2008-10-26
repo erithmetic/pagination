@@ -1,16 +1,19 @@
 <?php
 /*
-Plugin Name: WP-PageNavi
-Plugin URI: http://lesterchan.net/portfolio/programming/php/
-Description: Adds a more advanced paging navigation to your WordPress blog.
-Version: 2.31
-Author: Lester 'GaMerZ' Chan
-Author URI: http://lesterchan.net
+Plugin Name: pagination
+Plugin URI: http://github.com/dkastner/pagination
+Description: Customizable pagination.
+Version: 1.0
+Author: Derek Kastner
+Author URI: http://plusrw.wordpress.com
 */
 
 
 /*  
-	Copyright 2008  Lester Chan  (email : lesterchan@gmail.com)
+	This project is a modification to Lester Chan's WP-PageNavi plugin 
+		(http://lesterchan.net/wordpress/readme/wp-pagenavi.html)
+
+	Copyright 2008  Derek Kastner  (email : dkastner@gmail.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
