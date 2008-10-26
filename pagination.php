@@ -10,7 +10,7 @@ Author URI: http://plusrw.wordpress.com
 
 
 /*  
-	This project is a modification to Lester Chan's pagination plugin 
+	This plugin is a modification to Lester Chan's WP-PageNavi plugin 
 		(http://lesterchan.net/wordpress/readme/pagination.html)
 
 	Copyright 2008  Derek Kastner  (email : dkastner@gmail.com)
